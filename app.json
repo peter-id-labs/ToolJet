@@ -23,11 +23,11 @@
     },
     "LOCKBOX_MASTER_KEY": {
       "description": "Master key for encrypting datasource credentials.",
-      "value": ""
+      "value": "f8ee253f4e6c41a3e0465013a94ca1d763e967d265a0a5f7efab62b1c39fd095"
     },
     "SECRET_KEY_BASE": {
       "description": "Used by ToolJet server as the input secret to the application's key generator.",
-      "value": ""
+      "value": "2ccc3cbd7ddaa3585873f9e620173304f1e58922761b01b844ee9356db82ec5518b5491eeee5f37e85e106cf88d91e0ead56cd2f77f576dd7db9398a5d2e6491"
     },
     "NODE_OPTIONS": {
       "description": "Node options configured to increase node memory to support app build",
@@ -43,7 +43,7 @@
     },
     "ENABLE_TOOLJET_DB": {
       "description": "To enable Tooljet Database feature",
-      "value": "false"
+      "value": "true"
     },    
     "DEPLOYMENT_PLATFORM": {
       "description": "Platform ToolJet is deployed on",
